@@ -1,10 +1,10 @@
 
 import './App.css'; // Import CSS file
-import  image from 'src/white_logo.png';
+import  logo_image from 'src/white_logo.png';
 function App() {
   return (
     <div>
-      <img id="logo" src={ImageData} width="170px" height="170px" alt="Logo" />
+      <img id="logo" src={logo_image} width="170px" height="170px" alt="Logo" />
       <div id="name_1">PARIKRANTI FOUNDATION</div>
 
       <div id="boxrow1">
