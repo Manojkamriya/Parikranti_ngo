@@ -1,0 +1,45 @@
+.main_div{
+ height: 1400px;
+}
+
+
+.image_div{
+  background-image: url('Idea_Strategy_image.jpg');
+ height: 570px;
+}
+
+.Outer_Of_4_div{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+h1{
+  text-align: center;
+}
+
+p{
+margin-left: 10px;
+}
+
+.divs{
+  width: 598.5px;
+  height: 415px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+.Idea{
+  background-image: linear-gradient(to right, rgb(255, 0, 0) , yellow);
+}
+
+.Planning{
+  background-image: blue;
+}  
+
+.Strategy{
+  background-color: linear-gradient(to right, #008e9b ,#78CAD2);
+}
+
+.Impact{
+  background-color: #919ad6;
+}
+
